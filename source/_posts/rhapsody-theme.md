@@ -1,7 +1,7 @@
 ---
 title: Rhapsody Theme
 categories:
-  - [projects]
+  - [project]
 tags:
   - [vscode]
   - [extensions]

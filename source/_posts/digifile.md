@@ -1,7 +1,7 @@
 ---
 title: DIGIFILE
 categories:
-  - [projects]
+  - [project]
 tags:
   - [reactjs]
   - [postgresql]

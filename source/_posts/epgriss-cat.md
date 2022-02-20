@@ -1,7 +1,7 @@
 ---
 title: EPGRISS CAT
 categories:
-  - [projects]
+  - [project]
 tags:
   - [codeigniter]
   - [mysql]
