@@ -1,5 +1,5 @@
 ---
-title: DIGIFILE
+title: DIGIFILE | Digital E-File Storage System
 categories:
   - [projects]
 tags:
