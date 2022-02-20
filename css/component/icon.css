@@ -16,3 +16,23 @@
   -webkit-mask-image: url("../icon/arrow-right.svg");
   mask-image: url("../icon/arrow-right.svg");
 }
+.github-alt-brands {
+  -webkit-mask-image: url("../icon/github-alt-brands.svg");
+  mask-image: url("../icon/github-alt-brands.svg");
+}
+.linked {
+  -webkit-mask-image: url("../icon/linked.svg");
+  mask-image: url("../icon/linked.svg");
+}
+.mail {
+  -webkit-mask-image: url("../icon/mail.svg");
+  mask-image: url("../icon/mail.svg");
+}
+.blog {
+  -webkit-mask-image: url("../icon/blogging.svg");
+  mask-image: url("../icon/blogging.svg");
+}
+.calendar {
+  -webkit-mask-image: url("../icon/calendar.svg");
+  mask-image: url("../icon/calendar.svg");
+}
