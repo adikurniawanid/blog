@@ -1,5 +1,5 @@
 ---
-title: Rhapsody Theme VS Code
+title: Rhapsody Theme
 categories:
   - [projects]
 tags:

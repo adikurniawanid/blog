@@ -1,5 +1,5 @@
 ---
-title: EPGRISS CAT | Computer Assisted Test
+title: EPGRISS CAT
 categories:
   - [projects]
 tags:
