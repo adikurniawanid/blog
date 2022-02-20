@@ -276,14 +276,14 @@ ul {
 }
 a {
   text-decoration: none;
-  color: #fff;
+  color: #eceff4;
 }
 body {
   font-family: 'Inter', 'Noto Sans SC', helvetica, arial;
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5rem;
-  color: #fff;
+  color: #eceff4;
   background-color: #191627;
 }
 .header {
@@ -291,7 +291,7 @@ body {
   font-size: 0.875rem;
   font-weight: 500;
   line-height: 1.25rem;
-  color: #fff;
+  color: #eceff4;
 }
 .header-inner {
   display: flex;
@@ -327,7 +327,7 @@ body {
   left: 0;
   bottom: 0;
   width: 0;
-  border-bottom: solid 1px #fff;
+  border-bottom: solid 1px #eceff4;
 }
 .menu-item:hover:after {
   width: 100%;
@@ -381,14 +381,14 @@ body {
   font-size: 0.75rem;
   font-weight: 400;
   line-height: 1.25rem;
-  color: #fff;
+  color: #eceff4;
 }
 .footer .footer-text {
   margin-top: 2rem;
   margin-bottom: 3.5rem;
 }
 .post-list a {
-  background-image: linear-gradient(#191627, #191627), linear-gradient(#fff, #fff);
+  background-image: linear-gradient(#191627, #191627), linear-gradient(#eceff4, #eceff4);
   background-size: 100% 1px, 0% 1px;
   background-position: 100% 100%, 0 100%;
   background-repeat: no-repeat, no-repeat;
@@ -404,7 +404,7 @@ body {
   font-size: 1.75rem;
   font-weight: 700;
   line-height: 2.25rem;
-  color: #838383;
+  color: #eceff4;
 }
 .post-list-item {
   display: flex;
@@ -418,7 +418,7 @@ body {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5rem;
-  color: #fff;
+  color: #eceff4;
   font-variation-settings: 'wght' 500;
 }
 .post-list-item .post-date {
@@ -428,7 +428,7 @@ body {
   font-size: 0.875rem;
   font-weight: 400;
   line-height: 1.25rem;
-  color: #fff;
+  color: #eceff4;
   line-height: 1.5rem;
   color: #afafaf;
 }
@@ -467,19 +467,19 @@ body {
   font-size: 1.75rem;
   font-weight: 700;
   line-height: 2.25rem;
-  color: #fff;
+  color: #eceff4;
 }
 .post-gallery-item .post-info .post-date {
   font-size: 0.875rem;
   font-weight: 400;
   line-height: 1.25rem;
-  color: #fff;
+  color: #eceff4;
 }
 .post-gallery-item .post-img {
   width: 50%;
 }
 .post-gallery-item a {
-  background-image: linear-gradient(#191627, #191627), linear-gradient(#fff, #fff);
+  background-image: linear-gradient(#191627, #191627), linear-gradient(#eceff4, #eceff4);
   background-size: 100% 1px, 0% 1px;
   background-position: 100% 100%, 0 100%;
   background-repeat: no-repeat, no-repeat;
@@ -508,7 +508,7 @@ body {
   font-size: 0.875rem;
   font-weight: 500;
   line-height: 1.25rem;
-  color: #fff;
+  color: #eceff4;
   display: flex;
 }
 .pagination:before {
@@ -527,7 +527,7 @@ body {
   left: 0;
   bottom: 0;
   width: 0;
-  border-bottom: solid 1px #fff;
+  border-bottom: solid 1px #eceff4;
 }
 .page-number:hover:after {
   width: 100%;
@@ -560,14 +560,14 @@ body {
   font-size: 1.75rem;
   font-weight: 700;
   line-height: 2.25rem;
-  color: #fff;
+  color: #eceff4;
 }
 .profile .profile-content .profile-body {
   font-family: 'Inter', 'Noto Sans SC', helvetica, arial;
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5rem;
-  color: #fff;
+  color: #eceff4;
 }
 .profile .profile-content .profile-link {
   margin-top: 0;
@@ -575,7 +575,7 @@ body {
   font-size: 0.875rem;
   font-weight: 500;
   line-height: 1.25rem;
-  color: #fff;
+  color: #eceff4;
 }
 .profile .profile-image {
   width: 50%;
@@ -608,68 +608,68 @@ h1 {
   font-size: 1.75rem;
   font-weight: 700;
   line-height: 2.25rem;
-  color: #fff;
+  color: #eceff4;
 }
 h2 {
   font-size: 1.5rem;
   font-weight: 700;
   line-height: 2rem;
-  color: #fff;
+  color: #eceff4;
 }
 h3 {
   font-size: 1.125rem;
   font-weight: 700;
   line-height: 1.5rem;
-  color: #fff;
+  color: #eceff4;
 }
 h4 {
   font-size: 1rem;
   font-weight: 700;
   line-height: 1.25rem;
-  color: #fff;
+  color: #eceff4;
 }
 h5 {
   font-size: 1rem;
   font-weight: 600;
   line-height: 1.25rem;
-  color: #fff;
+  color: #eceff4;
 }
 h6 {
   font-size: 1rem;
   font-weight: 500;
   line-height: 1.25rem;
-  color: #fff;
+  color: #eceff4;
 }
 p {
   font-family: 'Inter', 'Noto Sans SC', helvetica, arial;
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5rem;
-  color: #fff;
+  color: #eceff4;
 }
 strong {
   font-size: 1rem;
   font-weight: 700;
   line-height: 1.5rem;
-  color: #fff;
+  color: #eceff4;
 }
 em {
   font-size: 1rem;
   font-weight: 400;
   font-style: italic;
   line-height: 1.5rem;
-  color: #fff;
+  color: #eceff4;
 }
 del {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5rem;
   text-decoration: line-through;
-  color: #fff;
+  color: #eceff4;
 }
 .post-content a {
   padding-bottom: 2px;
-  background-image: linear-gradient(#fff, #fff), linear-gradient(#fff, #fff);
+  background-image: linear-gradient(#eceff4, #eceff4), linear-gradient(#eceff4, #eceff4);
   background-size: 100% 1px, 0 2px;
   background-position: 100% 100%, 0 100%;
   background-repeat: no-repeat, no-repeat;
@@ -702,7 +702,7 @@ blockquote blockquote {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5rem;
-  color: #fff;
+  color: #eceff4;
   margin-top: 0.5rem;
 }
 .post-content ol {
@@ -737,7 +737,7 @@ dl dt {
   font-size: 1rem;
   font-weight: 700;
   line-height: 1.5rem;
-  color: #fff;
+  color: #eceff4;
 }
 dl dt::after {
   content: " :";
@@ -757,7 +757,7 @@ dl dd {
   font-size: 1.75rem;
   font-weight: 700;
   line-height: 2.25rem;
-  color: #fff;
+  color: #eceff4;
 }
 .post-head .post-info .post-date {
   margin-bottom: 0.125rem;
@@ -765,7 +765,7 @@ dl dd {
   font-size: 0.875rem;
   font-weight: 400;
   line-height: 1.25rem;
-  color: #fff;
+  color: #eceff4;
 }
 .post-head .post-img {
   margin-top: 2rem;
@@ -774,7 +774,7 @@ dl dd {
   margin-top: 3.5rem;
 }
 .post-footer a {
-  background-image: linear-gradient(#191627, #191627), linear-gradient(#fff, #fff);
+  background-image: linear-gradient(#191627, #191627), linear-gradient(#eceff4, #eceff4);
   background-size: 100% 1px, 0% 1px;
   background-position: 100% 100%, 0 100%;
   background-repeat: no-repeat, no-repeat;
@@ -790,7 +790,7 @@ dl dd {
   font-size: 0.875rem;
   font-weight: 500;
   line-height: 1.25rem;
-  color: #fff;
+  color: #eceff4;
 }
 .post-nav .prev-item {
   display: flex;
@@ -820,7 +820,7 @@ dl dd {
 .vcontent p {
   margin-top: 0 !important;
   font-size: 0.875rem !important;
-  color: #fff !important;
+  color: #eceff4 !important;
 }
 code {
   font-family: 'Roboto Mono', menlo, monospace;
@@ -865,7 +865,7 @@ pre {
 table,
 td,
 th {
-  border: #fff solid 1px;
+  border: #eceff4 solid 1px;
   width: 100%;
   text-align: left;
 }
@@ -975,14 +975,14 @@ ul li.task-list-item>input[type=checkbox] {
   opacity: 1;
 }
 ul li.task-list-item>input[type=checkbox][checked]:before {
-  background: #fff;
+  background: #eceff4;
   -webkit-mask-image: url("../icon/checkbox-checked.svg");
   -webkit-mask-position: center center;
   mask-image: url("../icon/checkbox-checked.svg");
   -webkit-mask-repeat: no-repeat;
 }
 ul li.task-list-item>input[type=checkbox]:before {
-  background: #fff;
+  background: #eceff4;
   -webkit-mask-image: url("../icon/checkbox-default.svg");
   -webkit-mask-position: center center;
   mask-image: url("../icon/checkbox-default.svg");
@@ -1006,7 +1006,7 @@ ul li.task-list-item>input[type=checkbox]:before {
 }
 .icon {
   display: block;
-  background-color: #fff;
+  background-color: #eceff4;
   width: 1.25rem;
   height: 1.25rem;
 }
@@ -1023,7 +1023,7 @@ ul li.task-list-item>input[type=checkbox]:before {
   mask-image: url("../icon/arrow-right.svg");
 }
 .h-line-primary {
-  background-color: #fff;
+  background-color: #eceff4;
   height: 1px;
 }
 .h-line-secondary {
@@ -1052,7 +1052,7 @@ hr {
   font-size: 0.75rem;
   font-weight: 500;
   line-height: 1rem;
-  border: 1px solid #fff;
+  border: 1px solid #eceff4;
   margin-right: 0.25rem;
   margin-top: 0.75rem;
   padding: 0.25rem 0.5rem 0.25rem 0.5rem;
@@ -1062,7 +1062,7 @@ hr {
   background-image: none !important;
 }
 .post-tag:hover {
-  background-color: #fff;
+  background-color: #eceff4;
 }
 .post-tag:hover a {
   color: #191627;

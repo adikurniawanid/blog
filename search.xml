@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>Rhapsody Theme</title>
+      <link href="/blog/rhapsody-theme/"/>
+      <url>/blog/rhapsody-theme/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Pendahuluan"><a href="#Pendahuluan" class="headerlink" title="Pendahuluan"></a>Pendahuluan</h1><p>Rhapsody theme merupakan extensions pada Visual Studio Code untuk mengubah warna tampilan dari interface VS Code dengan skema warna gelap.</p><h1 id="Instalasi"><a href="#Instalasi" class="headerlink" title="Instalasi"></a>Instalasi</h1><p>Install melalui <a href="https://marketplace.visualstudio.com/items?itemName=AdiKurniawan.rhapsody-theme">👉 Marketplace VS Code</a></p><p>atau</p><p>Jalankan VS Code Quick Open (<kbd><code>Ctrl</code></kbd>+<kbd><code>P</code></kbd>), kemudian tempelkan command berikut, lalu tekan <kbd><code>Enter</code></kbd>.</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">ext install AdiKurniawan.rhapsody-theme</span><br></pre></td></tr></table></figure><h1 id="Tangkapan-Layar"><a href="#Tangkapan-Layar" class="headerlink" title="Tangkapan Layar"></a>Tangkapan Layar</h1><h2 id="Nord-Color-Schema"><a href="#Nord-Color-Schema" class="headerlink" title="Nord Color Schema"></a>Nord Color Schema</h2><p><img src="/blog/assets/img/posts/nord-default.jpeg" alt="Default Nord"><br><img src="/blog/assets/img/posts/nord-commandPalette.jpeg" alt="Command Pallete Nord"><br><img src="/blog/assets/img/posts/nord-panelTerminal.jpeg" alt="Teminal Nord"></p><h2 id="Orange-Color-Schema"><a href="#Orange-Color-Schema" class="headerlink" title="Orange Color Schema"></a>Orange Color Schema</h2><p><img src="/blog/assets/img/posts/orange-default.jpeg" alt="Default Orange"><br><img src="/blog/assets/img/posts/orange-commandPalette.jpeg" alt="Command Pallete Orange"><br><img src="/blog/assets/img/posts/orange-panelTerminal.jpeg" alt="Teminal Orange"></p><h2 id="Dark-Color-Schema"><a href="#Dark-Color-Schema" class="headerlink" title="Dark Color Schema"></a>Dark Color Schema</h2><p><img src="/blog/assets/img/posts/dark-default.jpeg" alt="Default Dark"><br><img src="/blog/assets/img/posts/dark-commandPalette.jpeg" alt="Command Pallete Dark"><br><img src="/blog/assets/img/posts/dark-panelTerminal.jpeg" alt="Teminal Dark"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> projects </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> vscode </tag>
+            
+            <tag> extensions </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>DIGIFILE</title>
       <link href="/blog/digifile/"/>
       <url>/blog/digifile/</url>
