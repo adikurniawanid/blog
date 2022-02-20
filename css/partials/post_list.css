@@ -1,4 +1,5 @@
 .year-title {
+  text-align: right;
   margin-top: $margin-primary;
   margin-bottom: $margin-m-1;
 }
